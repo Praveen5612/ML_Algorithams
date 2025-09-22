@@ -1,0 +1,15 @@
+{
+  "Apriori Algorithm.ipynb": "Apriori Algorithm for mining frequent itemsets and generating association rules.",
+  "Data_Visualisation.ipynb": "Demonstrates various data visualization techniques using Python libraries like matplotlib and seaborn.",
+  "DecisionTree Algorithm.ipynb": "Implements Decision Tree for classification tasks, including tree visualization and evaluation metrics.",
+  "Hierarchical Algorithm.ipynb": "Hierarchical clustering algorithm for grouping similar data points based on distance metrics.",
+  "Kmeans Algorithm.ipynb": "K-Means clustering algorithm to partition data into K distinct clusters.",
+  "KNN Algorithm.ipynb": "K-Nearest Neighbors classification algorithm for predicting labels based on nearest data points.",
+  "Linear Regression Algorithm.ipynb": "Linear regression for predicting continuous values and understanding relationships between variables.",
+  "Logistic Regression.ipynb": "Logistic Regression for binary classification and probability prediction tasks.",
+  "Naive_Bayes.ipynb": "Naive Bayes classifier for probabilistic classification using Bayes theorem assumptions.",
+  "Randomforest Algorithm.ipynb": "Random Forest ensemble method for classification and regression tasks with multiple decision trees.",
+  "Text_to_Image Generation.ipynb": "Generates images from textual descriptions using AI-based text-to-image models.",
+  "TTS_Application.ipynb": "Text-to-Speech application converting written text into spoken audio.",
+  "Variational AutoEncoder.ipynb": "Variational Autoencoder for dimensionality reduction and generative modeling of data."
+}
